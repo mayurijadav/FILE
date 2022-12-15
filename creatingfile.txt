@@ -1,0 +1,2 @@
+whatever we write here it will disply in creatingfile.txt 
+this is my second line
